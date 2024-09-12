@@ -4,7 +4,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": 333
+      "price": 300
     },
     {
       "abr": "aestheticnose",
@@ -103,18 +103,6 @@
       "price": 2000
     },
     {
-      "abr": "anus",
-      "category": "Natural",
-      "defname": "Anus",
-      "price": 417
-    },
-    {
-      "abr": "aphrodisiacdrug",
-      "category": "Drugs",
-      "defname": "Aphrodisiac",
-      "price": 83
-    },
-    {
       "abr": "arcademachine",
       "category": "Recreation",
       "defname": "Joy_Arcade",
@@ -127,21 +115,9 @@
       "price": 1167
     },
     {
-      "abr": "archotechanus",
-      "category": "Archotech",
-      "defname": "ArchotechAnus",
-      "price": 4667
-    },
-    {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
-    },
-    {
-      "abr": "archotechbreasts",
-      "category": "Archotech",
-      "defname": "ArchotechBreasts",
       "price": 4667
     },
     {
@@ -154,18 +130,6 @@
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
-    },
-    {
-      "abr": "archotechpenis",
-      "category": "Archotech",
-      "defname": "ArchotechPenis",
-      "price": 4667
-    },
-    {
-      "abr": "archotechvagina",
-      "category": "Archotech",
-      "defname": "ArchotechVagina",
       "price": 4667
     },
     {
@@ -325,22 +289,10 @@
       "price": 600
     },
     {
-      "abr": "bionicanus",
-      "category": "Bionic",
-      "defname": "BionicAnus",
-      "price": 2167
-    },
-    {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
       "price": 1717
-    },
-    {
-      "abr": "bionicbreasts",
-      "category": "Bionic",
-      "defname": "BionicBreasts",
-      "price": 2167
     },
     {
       "abr": "bionicear",
@@ -373,12 +325,6 @@
       "price": 1717
     },
     {
-      "abr": "bionicpenis",
-      "category": "Bionic",
-      "defname": "BionicPenis",
-      "price": 1500
-    },
-    {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
@@ -395,12 +341,6 @@
       "category": "Bionic",
       "defname": "BionicTongue",
       "price": 942
-    },
-    {
-      "abr": "bionicvagina",
-      "category": "Bionic",
-      "defname": "BionicVagina",
-      "price": 2167
     },
     {
       "abr": "biosculpterpod",
@@ -529,12 +469,6 @@
       "price": 197
     },
     {
-      "abr": "breasts",
-      "category": "Natural",
-      "defname": "Breasts",
-      "price": 417
-    },
-    {
       "abr": "brewery",
       "category": "Production",
       "defname": "Brewery",
@@ -575,18 +509,6 @@
       "category": "Leathers",
       "defname": "Leather_Camel",
       "price": 4
-    },
-    {
-      "abr": "caninepenis",
-      "category": "Natural",
-      "defname": "DogPenis",
-      "price": 417
-    },
-    {
-      "abr": "caninevagina",
-      "category": "Natural",
-      "defname": "DogVagina",
-      "price": 417
     },
     {
       "abr": "cannibalplatter",
@@ -677,12 +599,6 @@
       "category": "Ranged weapons",
       "defname": "Gun_ChainShotgun",
       "price": 675
-    },
-    {
-      "abr": "chains",
-      "category": "Bondage gear",
-      "defname": "PrisonerChains",
-      "price": 500
     },
     {
       "abr": "chalice",
@@ -781,24 +697,6 @@
       "price": 1717
     },
     {
-      "abr": "cloacalanus",
-      "category": "Natural",
-      "defname": "CloacalAnus",
-      "price": 167
-    },
-    {
-      "abr": "cloacalpenis",
-      "category": "Natural",
-      "defname": "CloacalPenis",
-      "price": 167
-    },
-    {
-      "abr": "cloacalvagina",
-      "category": "Natural",
-      "defname": "CloacalVagina",
-      "price": 167
-    },
-    {
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
@@ -845,18 +743,6 @@
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
       "price": 53
-    },
-    {
-      "abr": "condom",
-      "category": "Manufactured",
-      "defname": "Condom",
-      "price": 3
-    },
-    {
-      "abr": "contraceptionpill",
-      "category": "Drugs",
-      "defname": "RJW_Contraceptive",
-      "price": 25
     },
     {
       "abr": "controlpack",
@@ -937,12 +823,6 @@
       "price": 86
     },
     {
-      "abr": "crocodilianpenis",
-      "category": "Natural",
-      "defname": "CrocodilianPenis",
-      "price": 500
-    },
-    {
       "abr": "crown",
       "category": "Headgear",
       "defname": "Apparel_Crown",
@@ -1000,30 +880,6 @@
       "abr": "deer",
       "category": "Animals",
       "defname": "Deer",
-      "price": 417
-    },
-    {
-      "abr": "demonanus",
-      "category": "Natural",
-      "defname": "DemonAnus",
-      "price": 417
-    },
-    {
-      "abr": "demonpenis",
-      "category": "Natural",
-      "defname": "DemonPenis",
-      "price": 417
-    },
-    {
-      "abr": "demontentacles",
-      "category": "Natural",
-      "defname": "DemonTentaclePenis",
-      "price": 417
-    },
-    {
-      "abr": "demonvagina",
-      "category": "Natural",
-      "defname": "DemonVagina",
       "price": 417
     },
     {
@@ -1085,18 +941,6 @@
       "category": "Furniture",
       "defname": "BedrollDouble",
       "price": 290
-    },
-    {
-      "abr": "dragonpenis",
-      "category": "Natural",
-      "defname": "DragonPenis",
-      "price": 417
-    },
-    {
-      "abr": "dragonvagina",
-      "category": "Natural",
-      "defname": "DragonVagina",
-      "price": 417
     },
     {
       "abr": "drape",
@@ -1181,30 +1025,6 @@
       "category": "Misc",
       "defname": "Effigy",
       "price": 178
-    },
-    {
-      "abr": "egg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "RJW_EggFertilized",
-      "price": 12
-    },
-    {
-      "abr": "egg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "RJW_EggInsectFertilized",
-      "price": 12
-    },
-    {
-      "abr": "egg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "RJW_EggUnfertilized",
-      "price": 2
-    },
-    {
-      "abr": "egg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "RJW_EggInsectUnfertilized",
-      "price": 2
     },
     {
       "abr": "eggbox",
@@ -1357,18 +1177,6 @@
       "price": 106
     },
     {
-      "abr": "equinepenis",
-      "category": "Natural",
-      "defname": "HorsePenis",
-      "price": 417
-    },
-    {
-      "abr": "equinevagina",
-      "category": "Natural",
-      "defname": "HorseVagina",
-      "price": 417
-    },
-    {
       "abr": "ergonomicbed",
       "category": "Furniture",
       "defname": "Bed_Ergonomic",
@@ -1391,24 +1199,6 @@
       "category": "Headgear",
       "defname": "Apparel_ClothMask",
       "price": 38
-    },
-    {
-      "abr": "featurelesschest",
-      "category": "Natural",
-      "defname": "FeaturelessChest",
-      "price": 167
-    },
-    {
-      "abr": "felinepenis",
-      "category": "Natural",
-      "defname": "CatPenis",
-      "price": 417
-    },
-    {
-      "abr": "felinevagina",
-      "category": "Natural",
-      "defname": "CatVagina",
-      "price": 417
     },
     {
       "abr": "fennecfox",
@@ -1837,12 +1627,6 @@
       "price": 592
     },
     {
-      "abr": "hemipenis",
-      "category": "Natural",
-      "defname": "HemiPenis",
-      "price": 500
-    },
-    {
       "abr": "hemogenamplifier",
       "category": "Misc",
       "defname": "HemogenAmplifier",
@@ -1883,18 +1667,6 @@
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
       "price": 833
-    },
-    {
-      "abr": "holokey",
-      "category": "Manufactured",
-      "defname": "Holokey",
-      "price": 17
-    },
-    {
-      "abr": "hololock",
-      "category": "Manufactured",
-      "defname": "Hololock",
-      "price": 667
     },
     {
       "abr": "hood",
@@ -1951,12 +1723,6 @@
       "price": 1
     },
     {
-      "abr": "humpshroom",
-      "category": "Drugs",
-      "defname": "HumpShroom",
-      "price": 17
-    },
-    {
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
@@ -1967,36 +1733,6 @@
       "category": "Meat",
       "defname": "Meat_Husky",
       "price": 3
-    },
-    {
-      "abr": "hydraulicanus",
-      "category": "Prosthetic",
-      "defname": "HydraulicAnus",
-      "price": 167
-    },
-    {
-      "abr": "hydraulicbreasts",
-      "category": "Prosthetic",
-      "defname": "HydraulicBreasts",
-      "price": 167
-    },
-    {
-      "abr": "hydraulicpenis",
-      "category": "Prosthetic",
-      "defname": "HydraulicPenis",
-      "price": 167
-    },
-    {
-      "abr": "hydraulicvagina",
-      "category": "Prosthetic",
-      "defname": "HydraulicVagina",
-      "price": 167
-    },
-    {
-      "abr": "hyperfertilitypill",
-      "category": "Drugs",
-      "defname": "RJW_FertPill",
-      "price": 25
     },
     {
       "abr": "hyperweave",
@@ -2125,12 +1861,6 @@
       "price": 2500
     },
     {
-      "abr": "insectanus",
-      "category": "Natural",
-      "defname": "InsectAnus",
-      "price": 83
-    },
-    {
       "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
@@ -2255,18 +1985,6 @@
       "category": "Meat",
       "defname": "Meat_LabradorRetriever",
       "price": 3
-    },
-    {
-      "abr": "lact-max",
-      "category": "Drugs",
-      "defname": "Lact-MAX",
-      "price": 167
-    },
-    {
-      "abr": "lact-x",
-      "category": "Drugs",
-      "defname": "Lact-X",
-      "price": 40
     },
     {
       "abr": "ladieshat",
@@ -2647,18 +2365,6 @@
       "price": 2500
     },
     {
-      "abr": "narrowvagina",
-      "category": "Natural",
-      "defname": "NarrowVagina",
-      "price": 417
-    },
-    {
-      "abr": "needle-likepenis",
-      "category": "Natural",
-      "defname": "NeedlePenis",
-      "price": 417
-    },
-    {
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
@@ -2743,18 +2449,6 @@
       "price": 128
     },
     {
-      "abr": "ovipositor(female)",
-      "category": "Natural",
-      "defname": "OvipositorF",
-      "price": 83
-    },
-    {
-      "abr": "ovipositor(male)",
-      "category": "Natural",
-      "defname": "OvipositorM",
-      "price": 58
-    },
-    {
       "abr": "ovum",
       "category": "Misc",
       "defname": "HumanOvum",
@@ -2809,12 +2503,6 @@
       "price": 2
     },
     {
-      "abr": "pegdick",
-      "category": "Prosthetic",
-      "defname": "PegDick",
-      "price": 8
-    },
-    {
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
@@ -2831,12 +2519,6 @@
       "category": "Inert relics",
       "defname": "RelicInertPendant",
       "price": 833
-    },
-    {
-      "abr": "penis",
-      "category": "Natural",
-      "defname": "Penis",
-      "price": 417
     },
     {
       "abr": "penoxycyline",
@@ -3023,12 +2705,6 @@
       "category": "Noble apparel",
       "defname": "Apparel_RobeRoyal",
       "price": 450
-    },
-    {
-      "abr": "procyoninepenis",
-      "category": "Natural",
-      "defname": "RaccoonPenis",
-      "price": 417
     },
     {
       "abr": "prostheticarm",
@@ -3445,18 +3121,6 @@
       "price": 297
     },
     {
-      "abr": "rodentpenis",
-      "category": "Natural",
-      "defname": "RodentPenis",
-      "price": 417
-    },
-    {
-      "abr": "rodentvagina",
-      "category": "Natural",
-      "defname": "RodentVagina",
-      "price": 417
-    },
-    {
       "abr": "roulettetable",
       "category": "Furniture",
       "defname": "Joy_RouletteTable",
@@ -3797,12 +3461,6 @@
       "category": "Headgear",
       "defname": "Apparel_Slicecap",
       "price": 62
-    },
-    {
-      "abr": "slimeglob",
-      "category": "Items",
-      "defname": "SlimeGlob",
-      "price": 2
     },
     {
       "abr": "smallbin",
@@ -4333,12 +3991,6 @@
       "price": 3
     },
     {
-      "abr": "udder",
-      "category": "Natural",
-      "defname": "UdderBreasts",
-      "price": 167
-    },
-    {
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
@@ -4361,18 +4013,6 @@
       "category": "Furniture",
       "defname": "Urn",
       "price": 70
-    },
-    {
-      "abr": "usedcondom",
-      "category": "Vegetarian",
-      "defname": "UsedCondom",
-      "price": 2
-    },
-    {
-      "abr": "vagina",
-      "category": "Natural",
-      "defname": "Vagina",
-      "price": 417
     },
     {
       "abr": "vanometricpowercell",
@@ -4511,204 +4151,6 @@
       "category": "Raw resources",
       "defname": "WoodLog",
       "price": 2
-    },
-    {
-      "abr": "analtighteningserum",
-      "category": "Drugs",
-      "defname": "TighteningSerumAnal",
-      "price": 417
-    },
-    {
-      "abr": "anti-cumflationtraitserum",
-      "category": "Drugs",
-      "defname": "AntiCumflationPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "anti-hypersexualityserum",
-      "category": "Drugs",
-      "defname": "AntiNymphomaniacPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "anti-masochistserum",
-      "category": "Drugs",
-      "defname": "AntiMasochistPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "anti-necrophiliacserum",
-      "category": "Drugs",
-      "defname": "AntiNecrophiliacPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "anti-zoophileserum",
-      "category": "Drugs",
-      "defname": "AntiZoophilePsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "breastexpansionserum",
-      "category": "Drugs",
-      "defname": "BreastExpansionSerum",
-      "price": 167
-    },
-    {
-      "abr": "breastreductionserum",
-      "category": "Drugs",
-      "defname": "BreastReductionSerum",
-      "price": 167
-    },
-    {
-      "abr": "caninemutagenicserum",
-      "category": "Drugs",
-      "defname": "CanineMutagenicSerum",
-      "price": 250
-    },
-    {
-      "abr": "cloacalmutagenicserum",
-      "category": "Drugs",
-      "defname": "CloacalMutagenicSerum",
-      "price": 250
-    },
-    {
-      "abr": "cum",
-      "category": "Animal products",
-      "defname": "GatheredCum",
-      "price": 0
-    },
-    {
-      "abr": "cumbucket",
-      "category": "Furniture",
-      "defname": "CumBucket",
-      "price": 35
-    },
-    {
-      "abr": "cum-serum",
-      "category": "Drugs",
-      "defname": "CumDecreaseSerum",
-      "price": 250
-    },
-    {
-      "abr": "cum+serum",
-      "category": "Drugs",
-      "defname": "CumIncreaseSerum",
-      "price": 417
-    },
-    {
-      "abr": "cumflationtraitserum",
-      "category": "Drugs",
-      "defname": "CumflationPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "demonicmutagenicserum",
-      "category": "Drugs",
-      "defname": "DemonicMutagenicSerum",
-      "price": 500
-    },
-    {
-      "abr": "diminishingserum",
-      "category": "Drugs",
-      "defname": "DiminishingSerum",
-      "price": 17
-    },
-    {
-      "abr": "draconicmutagenicserum",
-      "category": "Drugs",
-      "defname": "DraconicMutagenicSerum",
-      "price": 417
-    },
-    {
-      "abr": "elasticisingserum",
-      "category": "Drugs",
-      "defname": "ElasticisingSerum",
-      "price": 17
-    },
-    {
-      "abr": "enlargingserum",
-      "category": "Drugs",
-      "defname": "EnlargingSerum",
-      "price": 17
-    },
-    {
-      "abr": "equinemutagenicserum",
-      "category": "Drugs",
-      "defname": "EquineMutagenicSerum",
-      "price": 417
-    },
-    {
-      "abr": "felinemutagenicserum",
-      "category": "Drugs",
-      "defname": "FelineMutagenicSerum",
-      "price": 250
-    },
-    {
-      "abr": "futaserum",
-      "category": "Drugs",
-      "defname": "FutaSerum",
-      "price": 500
-    },
-    {
-      "abr": "genderbendserum",
-      "category": "Drugs",
-      "defname": "GenderBendSerum",
-      "price": 500
-    },
-    {
-      "abr": "genitalextrusionserum",
-      "category": "Drugs",
-      "defname": "GenitalExtrusionSerum",
-      "price": 833
-    },
-    {
-      "abr": "genitalretractionserum",
-      "category": "Drugs",
-      "defname": "GenitalRetractionSerum",
-      "price": 83
-    },
-    {
-      "abr": "hormonalserum",
-      "category": "Drugs",
-      "defname": "HormonalSerum",
-      "price": 50
-    },
-    {
-      "abr": "hypersexualityserum",
-      "category": "Drugs",
-      "defname": "NymphomaniacPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "insectoidmutagenicserum",
-      "category": "Drugs",
-      "defname": "InsectoidMutagenicSerum",
-      "price": 250
-    },
-    {
-      "abr": "lustbong",
-      "category": "Misc",
-      "defname": "Burnbong_Aphrodisiac",
-      "price": 617
-    },
-    {
-      "abr": "masochistserum",
-      "category": "Drugs",
-      "defname": "MasochistPsycheSerum",
-      "price": 567
-    },
-    {
-      "abr": "narrowmutagenicserum",
-      "category": "Drugs",
-      "defname": "NarrowMutagenicSerum",
-      "price": 367
-    },
-    {
-      "abr": "necrophiliacserum",
-      "category": "Drugs",
-      "defname": "NecrophiliacPsycheSerum",
-      "price": 567
     },
     {
       "abr": "alc",
@@ -5926,7 +5368,7 @@
       "abr": "mashedpomana",
       "category": "Vegetarian",
       "defname": "TM_RawPomanaMash",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "maskofserenity",
@@ -6064,7 +5506,7 @@
       "abr": "nuclearwarhead",
       "category": "Rimatomics Product",
       "defname": "FissionWarhead",
-      "price": 24000
+      "price": 240
     },
     {
       "abr": "orbofconviction",
@@ -6127,12 +5569,6 @@
       "price": 6250
     },
     {
-      "abr": "productionserum",
-      "category": "Drugs",
-      "defname": "ProductionSerum",
-      "price": 533
-    },
-    {
       "abr": "r.t.g",
       "category": "Nuclear",
       "defname": "RimatomicsRTG",
@@ -6149,18 +5585,6 @@
       "category": "Hazmat",
       "defname": "Apparel_RadiationSuit",
       "price": 383
-    },
-    {
-      "abr": "reinforcingserum",
-      "category": "Drugs",
-      "defname": "ReinforcingSerum",
-      "price": 1000
-    },
-    {
-      "abr": "reverterserum",
-      "category": "Drugs",
-      "defname": "ReverterSerum",
-      "price": 250
     },
     {
       "abr": "ringofblood",
@@ -6197,12 +5621,6 @@
       "category": "Rimatomics Product",
       "defname": "RocketEngine",
       "price": 67
-    },
-    {
-      "abr": "rodentmutagenicserum",
-      "category": "Drugs",
-      "defname": "RodentMutagenicSerum",
-      "price": 333
     },
     {
       "abr": "ruunbled",
@@ -6275,12 +5693,6 @@
       "category": "Animal",
       "defname": "TM_SlateGolem",
       "price": 2500
-    },
-    {
-      "abr": "slimemutagenicserum",
-      "category": "Drugs",
-      "defname": "SlimeMutagenicSerum",
-      "price": 533
     },
     {
       "abr": "staffofblazingpower",
@@ -6517,12 +5929,6 @@
       "price": 2917
     },
     {
-      "abr": "treinadordehabilidades(sex)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Sex",
-      "price": 1250
-    },
-    {
       "abr": "turbineblades",
       "category": "Rimatomics Product",
       "defname": "turbineBlade",
@@ -6625,11 +6031,11 @@
       "price": 167
     },
     {
-      "abr": "zoophileserum",
-      "category": "Drugs",
-      "defname": "ZoophilePsycheSerum",
-      "price": 567
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1105
+  "total": 1006
 }
