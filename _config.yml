@@ -1,6 +1,6 @@
 # Metadata
 title: "Lista de compras do Vreiki"
-favicon: "assets/img/favicon.png"
+favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
 baseurl: '' # the subpath of your site, e.g. /blog
