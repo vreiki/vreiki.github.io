@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 7600,
 		"karmatype": "Bad"
 	},
 	{
@@ -22,8 +22,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
+		"price": 1650,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -32,12 +32,12 @@
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 250,
+		"price": 450,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 950,
 		"karmatype": "Bad"
 	},
 	{
@@ -47,7 +47,7 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 1450,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,42 +57,42 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1750,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 9999999,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 16500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 13200,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 950,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1700,
 		"karmatype": "Bad"
 	},
 	{
@@ -113,11 +113,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -132,11 +127,11 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
+		"abr": "charaleatorio",
 		"price": 350,
 		"karmatype": "Good"
 	},
@@ -147,7 +142,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
@@ -207,17 +202,17 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 3900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 5400,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,32 +222,32 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 5500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,17 +257,17 @@
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
@@ -287,7 +282,7 @@
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -332,17 +327,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -352,12 +347,12 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,12 +367,12 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -397,6 +392,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -427,7 +427,7 @@
 	},
 	{
 		"abr": "smite",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Doom"
 	},
 	{
