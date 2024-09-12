@@ -1,10 +1,10 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'Itens'
+events_tab: 'Eventos'
+traits_tab: 'Personalidade'
+animals_tab: 'Animais'
+weapons_tab: 'Armas'
+pawn_kinds_tab: 'Tipos de Char'
 
 # Table headers
 mod_name_header: Mod Name
@@ -39,12 +39,12 @@ search_events: 'Search for events...'
 search_weapons: 'Search for weapons...'
 
 # Metadata
-usage: 'Usage: %s'
-shortcut: 'This is a shortcut for %s'
-stats: 'Stats'
-conflicts_with: 'Conflicts with'
+usage: 'Uso: %s'
+shortcut: 'Isso é um atalho para %s'
+stats: 'Status'
+conflicts_with: 'Conflitos com'
 from: 'From %s'
-weight: 'Weight'
-limit: 'Limit'
+weight: 'Peso'
+limit: 'Limite'
 karma: 'Karma'
-bypasses_limit: 'This trait may exceed the trait limit'
+bypasses_limit: 'Esse traço pode exceder o limite'
