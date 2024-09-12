@@ -1,7 +1,4 @@
-## Welcome to GitHub Pages
+# Item List
 
-
-1. Clone Repo
-2. Upload your itemlist.json and eventlist.json
-
-
+Please refer to the [documentation](https://sirrandoo.github.io/toolkit-utils/itemlist)
+for instructions on how to set up your item list.
