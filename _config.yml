@@ -5,7 +5,7 @@ description: A custom version of Toolkit's item list to support all the latest f
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: "https://vreiki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'a'
+twitter_username: 'vreiki'
 github_username: 'vreiki'
 
 # Item list settings
